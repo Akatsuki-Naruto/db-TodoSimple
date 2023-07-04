@@ -3,7 +3,7 @@
       {
         "id": 1,
         "title": " TikTok UI ",
-        "picture": "https://drive.google.com/file/d/1hbAFZ1N0BYeH6SuFT6EJgweJmzs2lm1S/view?usp=drive_link",
+        "picture": "https://github.com/Akatsuki-Naruto/db-TodoSimple/blob/a14080e63d00f018f29473d2d65efcffecd99119/img/Screenshot%202023-07-04%20114757.png",
         "content": "Use React to make a Tik tok UI with page such as For you, Following, Home Page.",
         "github": "https://github.com/Akatsuki-Naruto/tiktok-ui.git",
         "language":[
@@ -15,7 +15,7 @@
       {
         "id": 2,
         "title": " MP3-Demo ",
-        "picture": "https://drive.google.com/file/d/1P5K-xdRVsvHTs4bGbE_J07lnOXE3S7xW/view?usp=drive_link",
+        "picture": "https://github.com/Akatsuki-Naruto/db-TodoSimple/blob/a14080e63d00f018f29473d2d65efcffecd99119/img/Screenshot%202023-07-04%20130637.png",
         "content": "Use Javascript, HTML-CSS to design a wedsite which play the music.",
         "github": "https://github.com/Akatsuki-Naruto/MP3-Demo.git",
         "language":[
@@ -26,7 +26,7 @@
       {
         "id": 3,
         "title": " Index Daily.dev ",
-        "picture": "https://drive.google.com/file/d/1iv2HdcaWYQIYgnl5gACcgkT598mgeagB/view?usp=drive_link",
+        "picture": "https://github.com/Akatsuki-Naruto/db-TodoSimple/blob/a14080e63d00f018f29473d2d65efcffecd99119/img/Screenshot%202023-07-04%20131400.png",
         "content": "Use Javascript, Axios to make a Index Daily.dev and call API.",
         "github": "https://github.com/Akatsuki-Naruto/Fake-daily.dev-website.git",
         "language":[
@@ -37,7 +37,7 @@
       {
         "id": 4,
         "title": " Website Learn English ",
-        "picture": "https://drive.google.com/file/d/1FlyZmkOe_gTSD3c7Ut6nV1VtctPZCNSu/view?usp=drive_link",
+        "picture": "https://github.com/Akatsuki-Naruto/db-TodoSimple/blob/a14080e63d00f018f29473d2d65efcffecd99119/img/Screenshot%202023-07-04%20131727.png",
         "content": "Use Javascript, HTML-CSS to design a static wedsite which teaches English with form 4 skills Toeic.",
         "github": "https://github.com/Akatsuki-Naruto/Web-English-Project.git",
         "language":[
